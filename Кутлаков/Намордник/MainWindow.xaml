@@ -1,0 +1,733 @@
+﻿<Window x:Class="Намордник.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Намордник"
+        mc:Ignorable="d"
+        Icon="/resources/Намордник.ico"
+        Title="Намордник" Height="600" Width="1000"
+        ResizeMode="NoResize">
+    <Grid>
+        <StackPanel Height="100"
+                    Orientation="Horizontal"
+                    VerticalAlignment="Top"
+                    Background="#B0E5FD">
+            <Image Source="/resources/Намордник.png"
+                   Margin="5"/>
+            <TextBox Height="30" Width="400"/>
+            <ComboBox Height="30" Width="200"/>
+            <ComboBox Height="30" Width="200"/>
+        </StackPanel>
+        <ScrollViewer Margin="0,100,0,70">
+            <ListView>
+                <ListViewItem>
+                    <Grid Height="120"
+                                Background="#FDBD40"
+                                Margin="10"
+                                Width="940">
+                        <StackPanel>
+                            <Image Source="/products/picture.png"
+                                   Height="120"
+                                   HorizontalAlignment="Left"
+                                   Width="130"
+                                   Margin="10,0,0,0"/>
+                        </StackPanel>
+                        <StackPanel Margin="150, 20, 20, 20">
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Тип продукта"
+                                       FontSize="16"/>
+                                <Label Content="|"
+                                       FontSize="16"/>
+                                <Label Content="Наименование продукта"
+                                       FontSize="16"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Артикул"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Материалы: первый, второй, третий"/>
+                            </StackPanel>
+                        </StackPanel>
+                        <StackPanel Margin="100,0,20,0"
+                                    HorizontalAlignment="Right">
+                            <Label Content="Стоимость"
+                                   Margin="20"/>
+                        </StackPanel>
+                    </Grid>
+                </ListViewItem>
+                <ListViewItem>
+                    <Grid Height="120"
+                                Background="#FDBD40"
+                                Margin="10"
+                                Width="940">
+                        <StackPanel>
+                            <Image Source="/products/picture.png"
+                                   Height="120"
+                                   HorizontalAlignment="Left"
+                                   Width="130"
+                                   Margin="10,0,0,0"/>
+                        </StackPanel>
+                        <StackPanel Margin="150, 20, 20, 20">
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Тип продукта"
+                                       FontSize="16"/>
+                                <Label Content="|"
+                                       FontSize="16"/>
+                                <Label Content="Наименование продукта"
+                                       FontSize="16"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Артикул"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Материалы: первый, второй, третий"/>
+                            </StackPanel>
+                        </StackPanel>
+                        <StackPanel Margin="100,0,20,0"
+                                    HorizontalAlignment="Right">
+                            <Label Content="Стоимость"
+                                   Margin="20"/>
+                        </StackPanel>
+                    </Grid>
+                </ListViewItem>
+                <ListViewItem>
+                    <Grid Height="120"
+                                Background="#FDBD40"
+                                Margin="10"
+                                Width="940">
+                        <StackPanel>
+                            <Image Source="/products/picture.png"
+                                   Height="120"
+                                   HorizontalAlignment="Left"
+                                   Width="130"
+                                   Margin="10,0,0,0"/>
+                        </StackPanel>
+                        <StackPanel Margin="150, 20, 20, 20">
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Тип продукта"
+                                       FontSize="16"/>
+                                <Label Content="|"
+                                       FontSize="16"/>
+                                <Label Content="Наименование продукта"
+                                       FontSize="16"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Артикул"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Материалы: первый, второй, третий"/>
+                            </StackPanel>
+                        </StackPanel>
+                        <StackPanel Margin="100,0,20,0"
+                                    HorizontalAlignment="Right">
+                            <Label Content="Стоимость"
+                                   Margin="20"/>
+                        </StackPanel>
+                    </Grid>
+                </ListViewItem>
+                <ListViewItem>
+                    <Grid Height="120"
+                                Background="#FDBD40"
+                                Margin="10"
+                                Width="940">
+                        <StackPanel>
+                            <Image Source="/products/picture.png"
+                                   Height="120"
+                                   HorizontalAlignment="Left"
+                                   Width="130"
+                                   Margin="10,0,0,0"/>
+                        </StackPanel>
+                        <StackPanel Margin="150, 20, 20, 20">
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Тип продукта"
+                                       FontSize="16"/>
+                                <Label Content="|"
+                                       FontSize="16"/>
+                                <Label Content="Наименование продукта"
+                                       FontSize="16"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Артикул"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Материалы: первый, второй, третий"/>
+                            </StackPanel>
+                        </StackPanel>
+                        <StackPanel Margin="100,0,20,0"
+                                    HorizontalAlignment="Right">
+                            <Label Content="Стоимость"
+                                   Margin="20"/>
+                        </StackPanel>
+                    </Grid>
+                </ListViewItem>
+                <ListViewItem>
+                    <Grid Height="120"
+                                Background="#FDBD40"
+                                Margin="10"
+                                Width="940">
+                        <StackPanel>
+                            <Image Source="/products/picture.png"
+                                   Height="120"
+                                   HorizontalAlignment="Left"
+                                   Width="130"
+                                   Margin="10,0,0,0"/>
+                        </StackPanel>
+                        <StackPanel Margin="150, 20, 20, 20">
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Тип продукта"
+                                       FontSize="16"/>
+                                <Label Content="|"
+                                       FontSize="16"/>
+                                <Label Content="Наименование продукта"
+                                       FontSize="16"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Артикул"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Материалы: первый, второй, третий"/>
+                            </StackPanel>
+                        </StackPanel>
+                        <StackPanel Margin="100,0,20,0"
+                                    HorizontalAlignment="Right">
+                            <Label Content="Стоимость"
+                                   Margin="20"/>
+                        </StackPanel>
+                    </Grid>
+                </ListViewItem>
+                <ListViewItem>
+                    <Grid Height="120"
+                                Background="#FDBD40"
+                                Margin="10"
+                                Width="940">
+                        <StackPanel>
+                            <Image Source="/products/picture.png"
+                                   Height="120"
+                                   HorizontalAlignment="Left"
+                                   Width="130"
+                                   Margin="10,0,0,0"/>
+                        </StackPanel>
+                        <StackPanel Margin="150, 20, 20, 20">
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Тип продукта"
+                                       FontSize="16"/>
+                                <Label Content="|"
+                                       FontSize="16"/>
+                                <Label Content="Наименование продукта"
+                                       FontSize="16"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Артикул"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Материалы: первый, второй, третий"/>
+                            </StackPanel>
+                        </StackPanel>
+                        <StackPanel Margin="100,0,20,0"
+                                    HorizontalAlignment="Right">
+                            <Label Content="Стоимость"
+                                   Margin="20"/>
+                        </StackPanel>
+                    </Grid>
+                </ListViewItem>
+                <ListViewItem>
+                    <Grid Height="120"
+                                Background="#FDBD40"
+                                Margin="10"
+                                Width="940">
+                        <StackPanel>
+                            <Image Source="/products/picture.png"
+                                   Height="120"
+                                   HorizontalAlignment="Left"
+                                   Width="130"
+                                   Margin="10,0,0,0"/>
+                        </StackPanel>
+                        <StackPanel Margin="150, 20, 20, 20">
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Тип продукта"
+                                       FontSize="16"/>
+                                <Label Content="|"
+                                       FontSize="16"/>
+                                <Label Content="Наименование продукта"
+                                       FontSize="16"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Артикул"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Материалы: первый, второй, третий"/>
+                            </StackPanel>
+                        </StackPanel>
+                        <StackPanel Margin="100,0,20,0"
+                                    HorizontalAlignment="Right">
+                            <Label Content="Стоимость"
+                                   Margin="20"/>
+                        </StackPanel>
+                    </Grid>
+                </ListViewItem>
+                <ListViewItem>
+                    <Grid Height="120"
+                                Background="#FDBD40"
+                                Margin="10"
+                                Width="940">
+                        <StackPanel>
+                            <Image Source="/products/picture.png"
+                                   Height="120"
+                                   HorizontalAlignment="Left"
+                                   Width="130"
+                                   Margin="10,0,0,0"/>
+                        </StackPanel>
+                        <StackPanel Margin="150, 20, 20, 20">
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Тип продукта"
+                                       FontSize="16"/>
+                                <Label Content="|"
+                                       FontSize="16"/>
+                                <Label Content="Наименование продукта"
+                                       FontSize="16"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Артикул"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Материалы: первый, второй, третий"/>
+                            </StackPanel>
+                        </StackPanel>
+                        <StackPanel Margin="100,0,20,0"
+                                    HorizontalAlignment="Right">
+                            <Label Content="Стоимость"
+                                   Margin="20"/>
+                        </StackPanel>
+                    </Grid>
+                </ListViewItem>
+                <ListViewItem>
+                    <Grid Height="120"
+                                Background="#FDBD40"
+                                Margin="10"
+                                Width="940">
+                        <StackPanel>
+                            <Image Source="/products/picture.png"
+                                   Height="120"
+                                   HorizontalAlignment="Left"
+                                   Width="130"
+                                   Margin="10,0,0,0"/>
+                        </StackPanel>
+                        <StackPanel Margin="150, 20, 20, 20">
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Тип продукта"
+                                       FontSize="16"/>
+                                <Label Content="|"
+                                       FontSize="16"/>
+                                <Label Content="Наименование продукта"
+                                       FontSize="16"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Артикул"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Материалы: первый, второй, третий"/>
+                            </StackPanel>
+                        </StackPanel>
+                        <StackPanel Margin="100,0,20,0"
+                                    HorizontalAlignment="Right">
+                            <Label Content="Стоимость"
+                                   Margin="20"/>
+                        </StackPanel>
+                    </Grid>
+                </ListViewItem>
+                <ListViewItem>
+                    <Grid Height="120"
+                                Background="#FDBD40"
+                                Margin="10"
+                                Width="940">
+                        <StackPanel>
+                            <Image Source="/products/picture.png"
+                                   Height="120"
+                                   HorizontalAlignment="Left"
+                                   Width="130"
+                                   Margin="10,0,0,0"/>
+                        </StackPanel>
+                        <StackPanel Margin="150, 20, 20, 20">
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Тип продукта"
+                                       FontSize="16"/>
+                                <Label Content="|"
+                                       FontSize="16"/>
+                                <Label Content="Наименование продукта"
+                                       FontSize="16"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Артикул"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Материалы: первый, второй, третий"/>
+                            </StackPanel>
+                        </StackPanel>
+                        <StackPanel Margin="100,0,20,0"
+                                    HorizontalAlignment="Right">
+                            <Label Content="Стоимость"
+                                   Margin="20"/>
+                        </StackPanel>
+                    </Grid>
+                </ListViewItem>
+                <ListViewItem>
+                    <Grid Height="120"
+                                Background="#FDBD40"
+                                Margin="10"
+                                Width="940">
+                        <StackPanel>
+                            <Image Source="/products/picture.png"
+                                   Height="120"
+                                   HorizontalAlignment="Left"
+                                   Width="130"
+                                   Margin="10,0,0,0"/>
+                        </StackPanel>
+                        <StackPanel Margin="150, 20, 20, 20">
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Тип продукта"
+                                       FontSize="16"/>
+                                <Label Content="|"
+                                       FontSize="16"/>
+                                <Label Content="Наименование продукта"
+                                       FontSize="16"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Артикул"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Материалы: первый, второй, третий"/>
+                            </StackPanel>
+                        </StackPanel>
+                        <StackPanel Margin="100,0,20,0"
+                                    HorizontalAlignment="Right">
+                            <Label Content="Стоимость"
+                                   Margin="20"/>
+                        </StackPanel>
+                    </Grid>
+                </ListViewItem>
+                <ListViewItem>
+                    <Grid Height="120"
+                                Background="#FDBD40"
+                                Margin="10"
+                                Width="940">
+                        <StackPanel>
+                            <Image Source="/products/picture.png"
+                                   Height="120"
+                                   HorizontalAlignment="Left"
+                                   Width="130"
+                                   Margin="10,0,0,0"/>
+                        </StackPanel>
+                        <StackPanel Margin="150, 20, 20, 20">
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Тип продукта"
+                                       FontSize="16"/>
+                                <Label Content="|"
+                                       FontSize="16"/>
+                                <Label Content="Наименование продукта"
+                                       FontSize="16"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Артикул"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Материалы: первый, второй, третий"/>
+                            </StackPanel>
+                        </StackPanel>
+                        <StackPanel Margin="100,0,20,0"
+                                    HorizontalAlignment="Right">
+                            <Label Content="Стоимость"
+                                   Margin="20"/>
+                        </StackPanel>
+                    </Grid>
+                </ListViewItem>
+                <ListViewItem>
+                    <Grid Height="120"
+                                Background="#FDBD40"
+                                Margin="10"
+                                Width="940">
+                        <StackPanel>
+                            <Image Source="/products/picture.png"
+                                   Height="120"
+                                   HorizontalAlignment="Left"
+                                   Width="130"
+                                   Margin="10,0,0,0"/>
+                        </StackPanel>
+                        <StackPanel Margin="150, 20, 20, 20">
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Тип продукта"
+                                       FontSize="16"/>
+                                <Label Content="|"
+                                       FontSize="16"/>
+                                <Label Content="Наименование продукта"
+                                       FontSize="16"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Артикул"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Материалы: первый, второй, третий"/>
+                            </StackPanel>
+                        </StackPanel>
+                        <StackPanel Margin="100,0,20,0"
+                                    HorizontalAlignment="Right">
+                            <Label Content="Стоимость"
+                                   Margin="20"/>
+                        </StackPanel>
+                    </Grid>
+                </ListViewItem>
+                <ListViewItem>
+                    <Grid Height="120"
+                                Background="#FDBD40"
+                                Margin="10"
+                                Width="940">
+                        <StackPanel>
+                            <Image Source="/products/picture.png"
+                                   Height="120"
+                                   HorizontalAlignment="Left"
+                                   Width="130"
+                                   Margin="10,0,0,0"/>
+                        </StackPanel>
+                        <StackPanel Margin="150, 20, 20, 20">
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Тип продукта"
+                                       FontSize="16"/>
+                                <Label Content="|"
+                                       FontSize="16"/>
+                                <Label Content="Наименование продукта"
+                                       FontSize="16"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Артикул"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Материалы: первый, второй, третий"/>
+                            </StackPanel>
+                        </StackPanel>
+                        <StackPanel Margin="100,0,20,0"
+                                    HorizontalAlignment="Right">
+                            <Label Content="Стоимость"
+                                   Margin="20"/>
+                        </StackPanel>
+                    </Grid>
+                </ListViewItem>
+                <ListViewItem>
+                    <Grid Height="120"
+                                Background="#FDBD40"
+                                Margin="10"
+                                Width="940">
+                        <StackPanel>
+                            <Image Source="/products/picture.png"
+                                   Height="120"
+                                   HorizontalAlignment="Left"
+                                   Width="130"
+                                   Margin="10,0,0,0"/>
+                        </StackPanel>
+                        <StackPanel Margin="150, 20, 20, 20">
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Тип продукта"
+                                       FontSize="16"/>
+                                <Label Content="|"
+                                       FontSize="16"/>
+                                <Label Content="Наименование продукта"
+                                       FontSize="16"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Артикул"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Материалы: первый, второй, третий"/>
+                            </StackPanel>
+                        </StackPanel>
+                        <StackPanel Margin="100,0,20,0"
+                                    HorizontalAlignment="Right">
+                            <Label Content="Стоимость"
+                                   Margin="20"/>
+                        </StackPanel>
+                    </Grid>
+                </ListViewItem>
+                <ListViewItem>
+                    <Grid Height="120"
+                                Background="#FDBD40"
+                                Margin="10"
+                                Width="940">
+                        <StackPanel>
+                            <Image Source="/products/picture.png"
+                                   Height="120"
+                                   HorizontalAlignment="Left"
+                                   Width="130"
+                                   Margin="10,0,0,0"/>
+                        </StackPanel>
+                        <StackPanel Margin="150, 20, 20, 20">
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Тип продукта"
+                                       FontSize="16"/>
+                                <Label Content="|"
+                                       FontSize="16"/>
+                                <Label Content="Наименование продукта"
+                                       FontSize="16"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Артикул"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Материалы: первый, второй, третий"/>
+                            </StackPanel>
+                        </StackPanel>
+                        <StackPanel Margin="100,0,20,0"
+                                    HorizontalAlignment="Right">
+                            <Label Content="Стоимость"
+                                   Margin="20"/>
+                        </StackPanel>
+                    </Grid>
+                </ListViewItem>
+                <ListViewItem>
+                    <Grid Height="120"
+                                Background="#FDBD40"
+                                Margin="10"
+                                Width="940">
+                        <StackPanel>
+                            <Image Source="/products/picture.png"
+                                   Height="120"
+                                   HorizontalAlignment="Left"
+                                   Width="130"
+                                   Margin="10,0,0,0"/>
+                        </StackPanel>
+                        <StackPanel Margin="150, 20, 20, 20">
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Тип продукта"
+                                       FontSize="16"/>
+                                <Label Content="|"
+                                       FontSize="16"/>
+                                <Label Content="Наименование продукта"
+                                       FontSize="16"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Артикул"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Материалы: первый, второй, третий"/>
+                            </StackPanel>
+                        </StackPanel>
+                        <StackPanel Margin="100,0,20,0"
+                                    HorizontalAlignment="Right">
+                            <Label Content="Стоимость"
+                                   Margin="20"/>
+                        </StackPanel>
+                    </Grid>
+                </ListViewItem>
+                <ListViewItem>
+                    <Grid Height="120"
+                                Background="#FDBD40"
+                                Margin="10"
+                                Width="940">
+                        <StackPanel>
+                            <Image Source="/products/picture.png"
+                                   Height="120"
+                                   HorizontalAlignment="Left"
+                                   Width="130"
+                                   Margin="10,0,0,0"/>
+                        </StackPanel>
+                        <StackPanel Margin="150, 20, 20, 20">
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Тип продукта"
+                                       FontSize="16"/>
+                                <Label Content="|"
+                                       FontSize="16"/>
+                                <Label Content="Наименование продукта"
+                                       FontSize="16"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Артикул"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Материалы: первый, второй, третий"/>
+                            </StackPanel>
+                        </StackPanel>
+                        <StackPanel Margin="100,0,20,0"
+                                    HorizontalAlignment="Right">
+                            <Label Content="Стоимость"
+                                   Margin="20"/>
+                        </StackPanel>
+                    </Grid>
+                </ListViewItem>
+                <ListViewItem>
+                    <Grid Height="120"
+                                Background="#FDBD40"
+                                Margin="10"
+                                Width="940">
+                        <StackPanel>
+                            <Image Source="/products/picture.png"
+                                   Height="120"
+                                   HorizontalAlignment="Left"
+                                   Width="130"
+                                   Margin="10,0,0,0"/>
+                        </StackPanel>
+                        <StackPanel Margin="150, 20, 20, 20">
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Тип продукта"
+                                       FontSize="16"/>
+                                <Label Content="|"
+                                       FontSize="16"/>
+                                <Label Content="Наименование продукта"
+                                       FontSize="16"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Артикул"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Материалы: первый, второй, третий"/>
+                            </StackPanel>
+                        </StackPanel>
+                        <StackPanel Margin="100,0,20,0"
+                                    HorizontalAlignment="Right">
+                            <Label Content="Стоимость"
+                                   Margin="20"/>
+                        </StackPanel>
+                    </Grid>
+                </ListViewItem>
+                <ListViewItem>
+                    <Grid Height="120"
+                                Background="#FDBD40"
+                                Margin="10"
+                                Width="940">
+                        <StackPanel>
+                            <Image Source="/products/picture.png"
+                                   Height="120"
+                                   HorizontalAlignment="Left"
+                                   Width="130"
+                                   Margin="10,0,0,0"/>
+                        </StackPanel>
+                        <StackPanel Margin="150, 20, 20, 20">
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Тип продукта"
+                                       FontSize="16"/>
+                                <Label Content="|"
+                                       FontSize="16"/>
+                                <Label Content="Наименование продукта"
+                                       FontSize="16"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Артикул"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Материалы: первый, второй, третий"/>
+                            </StackPanel>
+                        </StackPanel>
+                        <StackPanel Margin="100,0,20,0"
+                                    HorizontalAlignment="Right">
+                            <Label Content="Стоимость"
+                                   Margin="20"/>
+                        </StackPanel>
+                    </Grid>
+                </ListViewItem>
+            </ListView>
+        </ScrollViewer>
+        <StackPanel Height="70"
+                    VerticalAlignment="Bottom"
+                    Background="#B0E5FD">
+            <Button Content="Добавить продукцию"
+                    Margin="0,15,0,0"/>
+        </StackPanel>
+    </Grid>
+</Window>

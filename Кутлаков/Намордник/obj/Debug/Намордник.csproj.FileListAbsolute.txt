@@ -1,0 +1,32 @@
+C:\Users\student\Desktop\Задание отборочные\Намордник\Намордник\bin\Debug\Намордник.exe.config
+C:\Users\student\Desktop\Задание отборочные\Намордник\Намордник\bin\Debug\Намордник.exe
+C:\Users\student\Desktop\Задание отборочные\Намордник\Намордник\bin\Debug\Намордник.pdb
+C:\Users\student\Desktop\Задание отборочные\Намордник\Намордник\obj\Debug\Намордник.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Задание отборочные\Намордник\Намордник\obj\Debug\MainWindow.g.cs
+C:\Users\student\Desktop\Задание отборочные\Намордник\Намордник\obj\Debug\App.g.cs
+C:\Users\student\Desktop\Задание отборочные\Намордник\Намордник\obj\Debug\Намордник_MarkupCompile.cache
+C:\Users\student\Desktop\Задание отборочные\Намордник\Намордник\obj\Debug\Намордник_MarkupCompile.lref
+C:\Users\student\Desktop\Задание отборочные\Намордник\Намордник\obj\Debug\MainWindow.baml
+C:\Users\student\Desktop\Задание отборочные\Намордник\Намордник\obj\Debug\Намордник.g.resources
+C:\Users\student\Desktop\Задание отборочные\Намордник\Намордник\obj\Debug\Намордник.Properties.Resources.resources
+C:\Users\student\Desktop\Задание отборочные\Намордник\Намордник\obj\Debug\Намордник.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Задание отборочные\Намордник\Намордник\obj\Debug\Намордник.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Задание отборочные\Намордник\Намордник\obj\Debug\Намордник.exe
+C:\Users\student\Desktop\Задание отборочные\Намордник\Намордник\obj\Debug\Намордник.pdb
+C:\Users\student\Desktop\Задание отборочные\Намордник\Намордник\obj\Debug\App.baml
+C:\Users\da_safronov\Desktop\Кутлаков\Намордник\bin\Debug\Намордник.exe.config
+C:\Users\da_safronov\Desktop\Кутлаков\Намордник\bin\Debug\Намордник.exe
+C:\Users\da_safronov\Desktop\Кутлаков\Намордник\bin\Debug\Намордник.pdb
+C:\Users\da_safronov\Desktop\Кутлаков\Намордник\obj\Debug\Намордник.csproj.AssemblyReference.cache
+C:\Users\da_safronov\Desktop\Кутлаков\Намордник\obj\Debug\MainWindow.g.cs
+C:\Users\da_safronov\Desktop\Кутлаков\Намордник\obj\Debug\App.g.cs
+C:\Users\da_safronov\Desktop\Кутлаков\Намордник\obj\Debug\Намордник_MarkupCompile.cache
+C:\Users\da_safronov\Desktop\Кутлаков\Намордник\obj\Debug\Намордник_MarkupCompile.lref
+C:\Users\da_safronov\Desktop\Кутлаков\Намордник\obj\Debug\App.baml
+C:\Users\da_safronov\Desktop\Кутлаков\Намордник\obj\Debug\MainWindow.baml
+C:\Users\da_safronov\Desktop\Кутлаков\Намордник\obj\Debug\Намордник.g.resources
+C:\Users\da_safronov\Desktop\Кутлаков\Намордник\obj\Debug\Намордник.Properties.Resources.resources
+C:\Users\da_safronov\Desktop\Кутлаков\Намордник\obj\Debug\Намордник.csproj.GenerateResource.cache
+C:\Users\da_safronov\Desktop\Кутлаков\Намордник\obj\Debug\Намордник.csproj.CoreCompileInputs.cache
+C:\Users\da_safronov\Desktop\Кутлаков\Намордник\obj\Debug\Намордник.exe
+C:\Users\da_safronov\Desktop\Кутлаков\Намордник\obj\Debug\Намордник.pdb

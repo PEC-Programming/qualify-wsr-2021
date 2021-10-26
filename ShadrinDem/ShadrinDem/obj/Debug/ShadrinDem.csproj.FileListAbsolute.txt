@@ -1,0 +1,50 @@
+C:\Users\student\Desktop\Задание отборочные\ShadrinDem\ShadrinDem\obj\Debug\MainWindow.g.cs
+C:\Users\student\Desktop\Задание отборочные\ShadrinDem\ShadrinDem\obj\Debug\App.g.cs
+C:\Users\student\Desktop\Задание отборочные\ShadrinDem\ShadrinDem\obj\Debug\ShadrinDem_Content.g.cs
+C:\Users\student\Desktop\Задание отборочные\ShadrinDem\ShadrinDem\obj\Debug\ShadrinDem_MarkupCompile.cache
+C:\Users\student\Desktop\Задание отборочные\ShadrinDem\ShadrinDem\obj\Debug\ShadrinDem_MarkupCompile.lref
+C:\Users\student\Desktop\Задание отборочные\ShadrinDem\ShadrinDem\obj\Debug\PageMains\PageMain.g.cs
+C:\Users\student\Desktop\Задание отборочные\ShadrinDem\ShadrinDem\bin\Debug\ShadrinDem.exe.config
+C:\Users\student\Desktop\Задание отборочные\ShadrinDem\ShadrinDem\bin\Debug\ShadrinDem.exe
+C:\Users\student\Desktop\Задание отборочные\ShadrinDem\ShadrinDem\bin\Debug\ShadrinDem.pdb
+C:\Users\student\Desktop\Задание отборочные\ShadrinDem\ShadrinDem\bin\Debug\EntityFramework.dll
+C:\Users\student\Desktop\Задание отборочные\ShadrinDem\ShadrinDem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\student\Desktop\Задание отборочные\ShadrinDem\ShadrinDem\bin\Debug\EntityFramework.xml
+C:\Users\student\Desktop\Задание отборочные\ShadrinDem\ShadrinDem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\student\Desktop\Задание отборочные\ShadrinDem\ShadrinDem\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\student\Desktop\Задание отборочные\ShadrinDem\ShadrinDem\obj\Debug\MainWindow.baml
+C:\Users\student\Desktop\Задание отборочные\ShadrinDem\ShadrinDem\obj\Debug\PageMains\PageMain.baml
+C:\Users\student\Desktop\Задание отборочные\ShadrinDem\ShadrinDem\obj\Debug\ShadrinDem.g.resources
+C:\Users\student\Desktop\Задание отборочные\ShadrinDem\ShadrinDem\obj\Debug\ShadrinDem.Properties.Resources.resources
+C:\Users\student\Desktop\Задание отборочные\ShadrinDem\ShadrinDem\obj\Debug\ShadrinDem.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Задание отборочные\ShadrinDem\ShadrinDem\obj\Debug\ShadrinDem.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Задание отборочные\ShadrinDem\ShadrinDem\obj\Debug\ShadrinDem.csproj.CopyComplete
+C:\Users\student\Desktop\Задание отборочные\ShadrinDem\ShadrinDem\obj\Debug\ShadrinDem.exe
+C:\Users\student\Desktop\Задание отборочные\ShadrinDem\ShadrinDem\obj\Debug\ShadrinDem.pdb
+C:\Users\student\Desktop\Задание отборочные\ShadrinDem\ShadrinDem\obj\Debug\App.baml
+C:\Users\student\Desktop\Задание отборочные\ShadrinDem\ShadrinDem\obj\Debug\ShadrinDem.csproj.AssemblyReference.cache
+C:\Users\da_safronov\Desktop\ShadrinDem\ShadrinDem\bin\Debug\ShadrinDem.exe.config
+C:\Users\da_safronov\Desktop\ShadrinDem\ShadrinDem\bin\Debug\ShadrinDem.exe
+C:\Users\da_safronov\Desktop\ShadrinDem\ShadrinDem\bin\Debug\ShadrinDem.pdb
+C:\Users\da_safronov\Desktop\ShadrinDem\ShadrinDem\bin\Debug\EntityFramework.dll
+C:\Users\da_safronov\Desktop\ShadrinDem\ShadrinDem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\da_safronov\Desktop\ShadrinDem\ShadrinDem\bin\Debug\EntityFramework.xml
+C:\Users\da_safronov\Desktop\ShadrinDem\ShadrinDem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\da_safronov\Desktop\ShadrinDem\ShadrinDem\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\da_safronov\Desktop\ShadrinDem\ShadrinDem\obj\Debug\ShadrinDem.csproj.AssemblyReference.cache
+C:\Users\da_safronov\Desktop\ShadrinDem\ShadrinDem\obj\Debug\MainWindow.g.cs
+C:\Users\da_safronov\Desktop\ShadrinDem\ShadrinDem\obj\Debug\PageMains\PageMain.g.cs
+C:\Users\da_safronov\Desktop\ShadrinDem\ShadrinDem\obj\Debug\App.g.cs
+C:\Users\da_safronov\Desktop\ShadrinDem\ShadrinDem\obj\Debug\ShadrinDem_Content.g.cs
+C:\Users\da_safronov\Desktop\ShadrinDem\ShadrinDem\obj\Debug\ShadrinDem_MarkupCompile.cache
+C:\Users\da_safronov\Desktop\ShadrinDem\ShadrinDem\obj\Debug\ShadrinDem_MarkupCompile.lref
+C:\Users\da_safronov\Desktop\ShadrinDem\ShadrinDem\obj\Debug\App.baml
+C:\Users\da_safronov\Desktop\ShadrinDem\ShadrinDem\obj\Debug\MainWindow.baml
+C:\Users\da_safronov\Desktop\ShadrinDem\ShadrinDem\obj\Debug\PageMains\PageMain.baml
+C:\Users\da_safronov\Desktop\ShadrinDem\ShadrinDem\obj\Debug\ShadrinDem.g.resources
+C:\Users\da_safronov\Desktop\ShadrinDem\ShadrinDem\obj\Debug\ShadrinDem.Properties.Resources.resources
+C:\Users\da_safronov\Desktop\ShadrinDem\ShadrinDem\obj\Debug\ShadrinDem.csproj.GenerateResource.cache
+C:\Users\da_safronov\Desktop\ShadrinDem\ShadrinDem\obj\Debug\ShadrinDem.csproj.CoreCompileInputs.cache
+C:\Users\da_safronov\Desktop\ShadrinDem\ShadrinDem\obj\Debug\ShadrinDem.csproj.CopyComplete
+C:\Users\da_safronov\Desktop\ShadrinDem\ShadrinDem\obj\Debug\ShadrinDem.exe
+C:\Users\da_safronov\Desktop\ShadrinDem\ShadrinDem\obj\Debug\ShadrinDem.pdb
